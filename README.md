@@ -15,9 +15,7 @@ Hi My name is MohammadAli
 > 
 
 ### <b>WORK EXPERIENCES</b> 	 
-> `Jan 2023 – Present`
->
-> <b>Software Engineer | [Tapsi](https://tapsi.ir/en). </b>
+> <b>Software Engineer | [Tapsi](https://tapsi.ir/en). </b> `Jan 2023 – Present`
 > 
 >![go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 >
@@ -25,9 +23,7 @@ Hi My name is MohammadAli
 > - Reward and Discount service
 > - Driver quest service 
 
-> `Apr 2022 – Jan 2023`
->
-> <b>Software Engineer | [Bale Massenger](https://bale.ai/). </b>
+> <b>Software Engineer | [Bale Massenger](https://bale.ai/). </b> `Apr 2022 – Jan 2023`
 > 
 >![go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) 
 >
@@ -37,9 +33,7 @@ Hi My name is MohammadAli
 > - Estimator of the count of posts' views service
 > - Contact service 
 
-> `Apr 2020 – Apr 2022 `
->
-> <b>Software Engineer | [Alibaba Travel Co](http://alibaba.ir/). </b>
+> <b>Software Engineer | [Alibaba Travel Co](http://alibaba.ir/). </b> `Apr 2020 – Apr 2022 `
 > 
 >![.net](https://img.shields.io/badge/-ASP%20.NET%20Core-05122A?style=flat&logo=dotnet) ![.csharp](https://img.shields.io/badge/-c%23-05122A?style=flat&logo=csharp) 
 >
