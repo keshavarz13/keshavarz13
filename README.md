@@ -58,7 +58,7 @@ Hi My name is MohammadAli
 ## 🤝🏻 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/keshavarz13/"><img src="https://img.shields.io/badge/-MohammadAli%20Keshavarz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="keshavarz.ma13@gmail.com"><img src="https://img.shields.io/badge/-keshavarz.ma13@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:keshavarz.ma13@gmail.com"><img src="https://img.shields.io/badge/-keshavarz.ma13@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
