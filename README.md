@@ -14,7 +14,7 @@ Hi My name is MohammadAli
 >- Amirkabir University of Technology (Tehran Polytechnic) | <b>B.Sc. Computer Engineering </b>| GPA: 18.89/20 
 > 
 
-### <b>WORK EXPERIENCE</b> 	 
+### <b>WORK EXPERIENCES</b> 	 
 > `Jan 2023 – Present`
 >
 > <b>Software Engineer | [Tapsi](). </b>
