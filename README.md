@@ -17,38 +17,38 @@ Hi My name is MohammadAli
 ### <b>WORK EXPERIENCE</b> 	 
 > `Jan 2023 – Present`
 >
-    > <b>Software Engineer | [Tapsi](). </b>
-    > 
-    >![go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-    >
-    > Software engineer coding in Go and NodeJS and in charge of maintaining services below
-    > - Reward and Discount service
-    > - Driver quest service 
-    
+> <b>Software Engineer | [Tapsi](). </b>
+> 
+>![go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+>
+> Software engineer coding in Go and NodeJS and in charge of maintaining services below
+> - Reward and Discount service
+> - Driver quest service 
+
 > `Apr 2022 – Jan 2023`
 >
-    > <b>Software Engineer | [Bale Massenger](). </b>
-    > 
-    >![go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) 
-    >
-    > Software engineer coding in Go and in charge of maintaining services below
-    > - Pesence and last seen service
-    > - Reaction service
-    > - Estimator of the count of posts' views service
-    > - Contact service 
+> <b>Software Engineer | [Bale Massenger](). </b>
+> 
+>![go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) 
+>
+> Software engineer coding in Go and in charge of maintaining services below
+> - Pesence and last seen service
+> - Reaction service
+> - Estimator of the count of posts' views service
+> - Contact service 
 
 > `Apr 2020 – Apr 2022 `
 >
-    > <b>Software Engineer | [Alibaba Travel Co](). </b>
-    > 
-    >![.net](https://img.shields.io/badge/-ASP%20.NET%20Core-05122A?style=flat&logo=dotnet) ![.csharp](https://img.shields.io/badge/-c%23-05122A?style=flat&logo=csharp) 
-    >
-    > Software engineer coding in ASP.NET Core/C# and in charge of maintaining services below
-    > - Refund core service
-    > - Credit cashout service
-    > - Asynchronous, queueing fax service
-    > - Chatbot service
-    > - Report center service
+> <b>Software Engineer | [Alibaba Travel Co](). </b>
+> 
+>![.net](https://img.shields.io/badge/-ASP%20.NET%20Core-05122A?style=flat&logo=dotnet) ![.csharp](https://img.shields.io/badge/-c%23-05122A?style=flat&logo=csharp) 
+>
+> Software engineer coding in ASP.NET Core/C# and in charge of maintaining services below
+> - Refund core service
+> - Credit cashout service
+> - Asynchronous, queueing fax service
+> - Chatbot service
+> - Report center service
 
 
 ## ⚙️ GitHub Analytics
