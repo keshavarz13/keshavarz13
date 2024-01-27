@@ -15,7 +15,7 @@ Hi My name is MohammadAli
 > 
 
 ### <b>WORK EXPERIENCES</b> 	 
-> <b>Software Engineer | [Tapsi](https://tapsi.ir/en). </b> `Jan 2023 – Present`
+> <b>Technical Team Lead | [Tapsi](https://tapsi.ir/en). </b> `Jan 2023 – Present`
 > 
 >![go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 >
