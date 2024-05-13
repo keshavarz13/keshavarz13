@@ -14,8 +14,15 @@ Hi My name is MohammadAli
 >- Amirkabir University of Technology (Tehran Polytechnic) | <b>B.Sc. Computer Engineering </b>| GPA: 18.89/20 
 > 
 
-### <b>WORK EXPERIENCES</b> 	 
-> <b>Technical Team Lead | [Tapsi](https://tapsi.ir/en). </b> `Jan 2023 – Present`
+### <b>WORK EXPERIENCES</b> 
+
+> <b>Software Engineer | [Alibaba Travel Co](http://alibaba.ir/). </b> `Feb 2024 – Present `
+> 
+>![.net](https://img.shields.io/badge/-ASP%20.NET%20Core-05122A?style=flat&logo=dotnet) ![.csharp](https://img.shields.io/badge/-c%23-05122A?style=flat&logo=csharp) 
+>
+> Software engineer coding in ASP.NET Core/C#
+
+> <b>Technical Team Lead | [Tapsi](https://tapsi.ir/en). </b> `Jan 2023 – Feb 2024`
 > 
 >![go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 >
